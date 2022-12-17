@@ -1,0 +1,12 @@
+.sidebar{
+   
+    width: 350px;
+    
+    border-radius: 12px;
+    height: 100vh;
+    padding:20px;
+    background-image:url('../../../../public/assets/images/bg-sidebar-desktop.svg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+

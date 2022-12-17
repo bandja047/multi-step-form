@@ -1,0 +1,32 @@
+.planSummary,.total{
+    padding: 24px;
+
+}
+.planSummary{
+    margin-top: 72px;
+    margin-bottom: 24px;
+    background-color: gray;
+   
+    border-radius: 8px;
+    
+}
+.planSummaryItems{
+  
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:24px;
+    align-items: center;
+   
+}
+
+.planSummary p, hr{
+    margin-bottom:24px;
+}
+
+.planSummaryItems a{
+ display: block;
+}
+.coast{
+    display: flex;
+    justify-content: space-between;
+}

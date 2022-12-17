@@ -1,0 +1,14 @@
+
+.frequency{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 72px;
+}
+.planItems{
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 72px;
+}
+

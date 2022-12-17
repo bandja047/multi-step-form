@@ -1,0 +1,10 @@
+h1{
+    color:var(--Marine-blue);
+    font-weight: 700;
+}
+
+h2{
+    color: var(--Cool-gray);
+    font-weight: 500;
+    font-size: 18px;
+}

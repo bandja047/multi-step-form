@@ -1,0 +1,31 @@
+.addOns{
+    border: 1px  solid var(--Purplish-blue);
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    padding: 18px;
+    margin-bottom: 12px;
+}
+
+
+
+.checkBoxLabel{
+    
+    display: flex;
+    flex-direction: column;
+    margin-left:30px;
+    color: var(--Marine-blue);
+    font-weight: 500;
+}
+
+.checkboxDesc{
+    color: var(--Cool-gray);
+}
+
+.addOnsPrice{
+    flex: 3;
+    margin-left:10px;
+    color: var(--Purplish-blue);
+    font-weight: 700;
+    text-align: right;
+}

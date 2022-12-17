@@ -1,0 +1,22 @@
+.inputForm{
+   padding: 12px;
+   color: var(--Marine-blue);
+   font-weight: 700;
+    
+}
+input{
+    display: block;
+    border-radius:  5px  ;
+    padding:12px;
+    margin-top: 8px;
+    width: 100%;
+    color: var(--Marine-blue);
+    font-weight: 700;
+    border:1px solid var(--Light-gray);
+    
+    
+}
+
+input:focus{
+    outline-color:var(--Purplish-blue);
+}

@@ -1,0 +1,32 @@
+.planForm{
+    width:900px;
+   
+    margin:0 auto;
+   
+   
+}
+
+.stepBtn{
+
+  
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top:72px;
+    
+}
+
+button{
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: white;
+    border: none;
+}
+
+.btnPreviousStep{
+    background-color: grey;
+}
+
+.btnNextStep{
+    background-color: blue;
+}

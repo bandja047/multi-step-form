@@ -1,0 +1,11 @@
+.success{
+    margin: auto;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+.success img{
+    margin-bottom: 24px;
+}

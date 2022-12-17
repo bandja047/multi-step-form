@@ -1,0 +1,34 @@
+.planChoice{
+    padding: 12px;
+    border-radius:12px;
+    
+    float: right;
+    flex:1;
+    border: 2px solid var(--Cool-gray);
+    margin: 8px;
+
+    cursor:pointer;
+}
+
+.selected{
+    padding: 12px;
+    border-radius:12px;
+    
+    float: right;
+    flex:1;
+    border: 2px solid var(--Purplish-blue);
+    margin: 8px;
+    
+}
+
+.planChoice h2{
+    margin-bottom:4px;
+    color: var(--Marine-blue);
+    font-weight: 700;
+}
+ .planChoice p{
+    margin-top:0;
+    margin-bottom:0;
+    color: var(--Cool-gray);
+    
+}
